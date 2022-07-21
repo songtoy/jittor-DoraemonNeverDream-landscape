@@ -1,0 +1,7 @@
+*.pyc
+test/
+train/
+results/
+results-old/
+*.zip
+__pycache__/
