@@ -1,0 +1,1 @@
+python test.py --label_dir ../val_B-labels-clean/ 
